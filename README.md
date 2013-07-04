@@ -1,4 +1,4 @@
-Card recognition and organization based on [opencv](opencv.willowgarage.com)
+Card recognition and organization based on [opencv](http://opencv.willowgarage.com)
 
 [demo video](http://youtu.be/ppNy9fdw91E)
 
